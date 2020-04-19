@@ -1,4 +1,6 @@
 # config=utf-8
+# Author Gscsd5
+
 
 from bs4 import BeautifulSoup
 import requests
